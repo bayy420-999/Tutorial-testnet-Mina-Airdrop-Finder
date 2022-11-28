@@ -44,6 +44,9 @@
   ```console
   ./run.sh
   ```
+
+> Pilih yes 3x terus enter
+
 Setelah semuanya selesai, langsung lanjut ke bagian [Deploy project](https://github.com/bayy420-999/Tutorial-testnet-Mina-Airdrop-Finder#deploy-project)
 
 ### Setup Manual
